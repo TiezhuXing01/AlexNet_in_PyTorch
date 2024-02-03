@@ -5,4 +5,6 @@
 
 .ipynb文件中有详细的介绍。  
 
-推荐阅读博客：https://www.cnblogs.com/xing9/p/18002038/AlexNet-PyTorch
+如果想对 AlexNet 的结构和训练测试它的编程思路做更多了解，请阅读我的博客文章：
+《手撸代码：从零开始的 AlexNet 图像分类（PyTorch框架）》
+文章链接：https://www.cnblogs.com/xing9/p/18002038/AlexNet-PyTorch
